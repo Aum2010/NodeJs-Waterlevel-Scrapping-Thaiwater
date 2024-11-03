@@ -1,18 +1,3 @@
-# NodeJs-Waterlevel-Scrapping-Thaiwater
-
-## Local Env.
-
-Nodejs : 20.17.0
-
-## Source Water Level
-
-https://tiwrmdev.hii.or.th/v3/telemetering/wl/warning
-
-สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)
-
-## Output Example
-
-```json
 {"Location":"คลองเปรมประชากร หลักหก ต.หลักหก อ.เมืองปทุมธานี จ.ปทุมธานี ","Time":"21:30","WaterLevel":"0.12","BankLevel":"1.29","Rainfall":"9.4","WaterLevelLabel":"น้ำปกติ"}
 {"Location":"คลองมหาสวัสดิ บางกรวย-สวนผัก ต.ตลิ่งชัน อ.ตลิ่งชัน จ.กรุงเทพมหานคร ","Time":"21:30","WaterLevel":"1.45","BankLevel":"2.07","Rainfall":"0","WaterLevelLabel":"น้ำมาก"}
 {"Location":"คลองทวีวัฒนา ท้ายปตร.ทวีวัฒนา ต.ศาลาธรรมสพน์ อ.ทวีวัฒนา จ.กรุงเทพมหานคร ","Time":"21:30","WaterLevel":"0.681","BankLevel":"1.42","Rainfall":"0","WaterLevelLabel":"น้
@@ -239,4 +224,3 @@ elLabel":"น้ำมาก"}
 {"Location":"บางระกำ ต.บางระกำ อ.บางระกำ จ.พิษณุโลก ","Time":"21:20","WaterLevel":"38.65","BankLevel":"41.20","Rainfall":"0","WaterLevelLabel":"น้ำมาก"}
 {"Location":"เมืองแพร่ ต.ป่าแมต อ.เมืองแพร่ จ.แพร่ ","Time":"21:20","WaterLevel":"145.12","BankLevel":"151.81","Rainfall":"0","WaterLevelLabel":"น้ำปกติ"}
 {"Location":"งาว ต.หลวงใต้ อ.งาว จ.ลำปาง ","Time":"21:10","WaterLevel":"269.19","BankLevel":"274.55","Rainfall":"16.8","WaterLevelLabel":"น้ำน้อย"}
-```
